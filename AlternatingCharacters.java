@@ -16,7 +16,7 @@ public class AlternatingCharacters
                     count ++;
                 }
         }
-              System.out.println(count);
+            System.out.println(count);
             count=0;
         }
     }
