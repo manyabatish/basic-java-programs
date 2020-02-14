@@ -6,9 +6,10 @@ public static void main(String arg[])
 Stack<String> STACK= new Stack<String>();
 STACK.push("Welcome");
 STACK.push("to");
-STACK.push("ambala");
+STACK.push("Ambala");
 System.out.println("Initial: "+ STACK);
-STACK.push("City");
+ STACK.push("Thanking");
+   STACK.push("You");
 System.out.println("Final: "+ STACK);
 }
 }
