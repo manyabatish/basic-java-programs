@@ -4,6 +4,7 @@ public class AlternatingCharacters
     public static void main(String arg[])
     {
         Scanner s= new Scanner(System.in);
+        System.out.println("Enter values");
         int n= s.nextInt();
         int count=0;
         for(int k=0;k<n;k++)
